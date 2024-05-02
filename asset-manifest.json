@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Quiz-Application-Using-React.js/static/css/main.b4f9c46a.css",
+    "main.js": "/Quiz-Application-Using-React.js/static/js/main.a58dbf6b.js",
+    "static/media/box3.png": "/Quiz-Application-Using-React.js/static/media/box3.db983166085adac5b285.png",
+    "static/media/box2.png": "/Quiz-Application-Using-React.js/static/media/box2.b62b3ae92ca7a1efd95d.png",
+    "static/media/box1.png": "/Quiz-Application-Using-React.js/static/media/box1.0b07f99fe43dbf162d19.png",
+    "static/media/victory-sound.mp3": "/Quiz-Application-Using-React.js/static/media/victory-sound.37b45d4b4b0828435ef4.mp3",
+    "static/media/celebration.png": "/Quiz-Application-Using-React.js/static/media/celebration.6d85aa6c0bb109bde55e.png",
+    "static/media/lost-sound.mp3": "/Quiz-Application-Using-React.js/static/media/lost-sound.6b2eb1aa1ffcec110107.mp3",
+    "static/media/sad.png": "/Quiz-Application-Using-React.js/static/media/sad.2ad6f665712a6c796f4e.png",
+    "static/media/click-sound.mp3": "/Quiz-Application-Using-React.js/static/media/click-sound.7f139b396a1194e8727a.mp3",
+    "index.html": "/Quiz-Application-Using-React.js/index.html",
+    "main.b4f9c46a.css.map": "/Quiz-Application-Using-React.js/static/css/main.b4f9c46a.css.map",
+    "main.a58dbf6b.js.map": "/Quiz-Application-Using-React.js/static/js/main.a58dbf6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4f9c46a.css",
+    "static/js/main.a58dbf6b.js"
+  ]
+}
